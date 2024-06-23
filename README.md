@@ -24,3 +24,20 @@ This project is from [Road to Data Engineer](https://school.datath.com/courses/r
    - Create table in BigQuery (if one does not already exist)
    - Create a view to provide a specific subset of data for visualization
    - Create a dashboard
+
+## Dashboard
+### Dashboard: Overview
+Dashboard summary:
+- Business income
+- Number of customers
+- Number of purchases in each country
+- Bestsellers
+- Best selling book category
+
+<img src="picture/dashboard-1.png" width=100% height=40%>
+
+### Dashboard: Searching
+Dashboard summary:
+In this dashboard, we can select a country and view the corresponding sales data we want to search for.
+
+<img src="picture/dashboard-2.png" width=100% height=40%>

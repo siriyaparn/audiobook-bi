@@ -67,7 +67,6 @@ def merge_data(transaction_path, conversion_rate_path, output_path):
     # Save csv file
     final_df.to_csv(output_path, index=False)
     print(f"Output to {output_path}")
-    print("== End of Workshop 4 ʕ•́ᴥ•̀ʔっ♡ ==")
 
 # Define the DAG
 with DAG(

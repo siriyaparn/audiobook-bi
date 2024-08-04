@@ -1,4 +1,4 @@
-# Data Engineering Project: AudioBook Business Intelligence
+# Data Engineering Project: AudioBook Data Pipeline
 This project is from [Road to Data Engineer](https://school.datath.com/courses/road-to-data-engineer-2-0-2023) course. Road to Data Engineer is a course that provides fundamental to advanced knowledge in the Data Engineer track. We can apply this knowledge to build automated data pipelines.
 
 ## Project Overview
